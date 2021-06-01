@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JInternalFrameFormInfo">
+  <Properties>
+    <Property name="closable" type="boolean" value="true"/>
+    <Property name="iconifiable" type="boolean" value="true"/>
+    <Property name="maximizable" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="true"/>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[750, 500]"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" pref="714" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="303" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="jTable2">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="4" rowCount="38">
+                <Column editable="true" title="Judul" type="java.lang.Object">
+                  <Data value="Animal Crossing: New Horizons"/>
+                  <Data value="Assassin&apos;s Creed Odyssey"/>
+                  <Data value="Bayonetta 2"/>
+                  <Data value="Bloodborne"/>
+                  <Data value="Celeste"/>
+                  <Data value="Control"/>
+                  <Data value="Dark Souls II"/>
+                  <Data value="Death Stranding"/>
+                  <Data value="Doom"/>
+                  <Data value="Doom Eternal"/>
+                  <Data value="Dragon Age: Inquisition"/>
+                  <Data value="Fallout 4"/>
+                  <Data value="Final Fantasy VII Remake"/>
+                  <Data value="Ghost of Tsushima"/>
+                  <Data value="God of War"/>
+                  <Data value="Hades"/>
+                  <Data value="Hearthstone"/>
+                  <Data value="Horizon Zero Dawn"/>
+                  <Data value="Inside"/>
+                  <Data value="Marvel&apos;s Spider-Man"/>
+                  <Data value="Metal Gear Solid V: The Phantom Pain"/>
+                  <Data value="Middle-earth: Shadow of Mordor"/>
+                  <Data value="Monster Hunter: World"/>
+                  <Data value="Overwatch"/>
+                  <Data value="Persona 5"/>
+                  <Data value="PlayerUnknown&apos;s Battlegrounds"/>
+                  <Data value="Red Dead Redemption 2"/>
+                  <Data value="Resident Evil 2"/>
+                  <Data value="Sekiro: Shadows Die Twice"/>
+                  <Data value="Super Mario Maker"/>
+                  <Data value="Super Mario Odyssey"/>
+                  <Data value="Super Smash Bros. Ultimate"/>
+                  <Data value="The Last of Us Part II"/>
+                  <Data value="The Legend of Zelda: Breath of the Wild"/>
+                  <Data value="The Outer Worlds"/>
+                  <Data value="The Witcher 3: Wild Hunt"/>
+                  <Data value="Titanfaal 2"/>
+                  <Data value="Uncharted 4: A Thief&apos;s End"/>
+                </Column>
+                <Column editable="true" title="Genre" type="java.lang.Object">
+                  <Data value="Social Simulation"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Action"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Platform"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Action"/>
+                  <Data value="First-person shooter"/>
+                  <Data value="First-person shooter"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Stealth"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Roguelike"/>
+                  <Data value="Card Game"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Platform"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Stealth"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="First-person shooter"/>
+                  <Data value="Role-playing"/>
+                  <Data value="Battle Royale"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Survival"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Platform"/>
+                  <Data value="Platform"/>
+                  <Data value="Fighting"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Action-adventure"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="Action role-playing"/>
+                  <Data value="First-person shooter"/>
+                  <Data value="Action-adventure"/>
+                </Column>
+                <Column editable="true" title="Developer" type="java.lang.Object">
+                  <Data value="Nintendo"/>
+                  <Data value="Ubisoft"/>
+                  <Data value="PlatinumGames"/>
+                  <Data value="FromSoftware"/>
+                  <Data value="Matt Makes Games"/>
+                  <Data value="Remedy Entertainment"/>
+                  <Data value="FromSoftware"/>
+                  <Data value="Kojima Productions"/>
+                  <Data value="id Software"/>
+                  <Data value="id Software"/>
+                  <Data value="BioWare"/>
+                  <Data value="Bethesda Game Studios"/>
+                  <Data value="Square Enix"/>
+                  <Data value="Sucker Punch Productions"/>
+                  <Data value="Santa Monica Studio"/>
+                  <Data value="Supergiant Games"/>
+                  <Data value="Blizzard Entertainment"/>
+                  <Data value="Guerilla Games"/>
+                  <Data value="Playdead"/>
+                  <Data value="Insomniac Games"/>
+                  <Data value="Kojima Productions"/>
+                  <Data value="Monolith Productions"/>
+                  <Data value="Capcom"/>
+                  <Data value="Blizzard Entertainment"/>
+                  <Data value="Atlus"/>
+                  <Data value="PUBG Corporation"/>
+                  <Data value="Rockstar Games"/>
+                  <Data value="Capcom"/>
+                  <Data value="FromSoftware"/>
+                  <Data value="Nintendo"/>
+                  <Data value="Nintendo"/>
+                  <Data value="Bandai Namco"/>
+                  <Data value="Naughty Dog"/>
+                  <Data value="Nintendo"/>
+                  <Data value="Obsidian Entertainment"/>
+                  <Data value="CD Projekt Red"/>
+                  <Data value="Respawn Entertainment"/>
+                  <Data value="Naughty Dog"/>
+                </Column>
+                <Column editable="true" title="Metascore" type="java.lang.Object">
+                  <Data value="90"/>
+                  <Data value="87"/>
+                  <Data value="92"/>
+                  <Data value="92"/>
+                  <Data value="94"/>
+                  <Data value="83"/>
+                  <Data value="91"/>
+                  <Data value="86"/>
+                  <Data value="87"/>
+                  <Data value="88"/>
+                  <Data value="89"/>
+                  <Data value="87"/>
+                  <Data value="87"/>
+                  <Data value="83"/>
+                  <Data value="94"/>
+                  <Data value="93"/>
+                  <Data value="93"/>
+                  <Data value="89"/>
+                  <Data value="93"/>
+                  <Data value="87"/>
+                  <Data value="95"/>
+                  <Data value="87"/>
+                  <Data value="90"/>
+                  <Data value="91"/>
+                  <Data value="93"/>
+                  <Data value="86"/>
+                  <Data value="97"/>
+                  <Data value="91"/>
+                  <Data value="91"/>
+                  <Data value="88"/>
+                  <Data value="97"/>
+                  <Data value="93"/>
+                  <Data value="93"/>
+                  <Data value="97"/>
+                  <Data value="76"/>
+                  <Data value="93"/>
+                  <Data value="89"/>
+                  <Data value="93"/>
+                </Column>
+              </Table>
+            </Property>
+            <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+              <TableColumnModel selectionModel="0">
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+                <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                  <Title/>
+                  <Editor/>
+                  <Renderer/>
+                </Column>
+              </TableColumnModel>
+            </Property>
+            <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+              <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Orbitron" size="14" style="1"/>
+        </Property>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="text" type="java.lang.String" value="DAFTAR GAME"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
